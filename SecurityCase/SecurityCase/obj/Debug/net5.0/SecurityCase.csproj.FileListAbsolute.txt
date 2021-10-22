@@ -1,0 +1,15 @@
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.AssemblyInfoInputs.cache
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.AssemblyInfo.cs
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.csproj.CoreCompileInputs.cache
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.exe
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.deps.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.runtimeconfig.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.runtimeconfig.dev.json
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\ref\SecurityCase.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\bin\Debug\net5.0\SecurityCase.pdb
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\ref\SecurityCase.dll
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.pdb
+D:\Khonsa Nadziroh\KULIAH\Semester 5\Praktikum Pemrograman Jaringan Komputer\SecurityCase\SecurityCase\obj\Debug\net5.0\SecurityCase.genruntimeconfig.cache
